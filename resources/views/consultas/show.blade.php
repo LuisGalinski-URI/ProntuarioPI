@@ -1,0 +1,1 @@
+@include('consultas.edit', ['readonly' => true])

@@ -1,0 +1,1 @@
+@include('pacientes.add', ['editing' => true, 'readonly' => true])
